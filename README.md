@@ -1,6 +1,6 @@
 # Lumos 
 
-> lumos is poc of a build-system for build-system.
+> lumos (荧光闪烁) is poc of a build-system for build-system.
 
 License
 ---
