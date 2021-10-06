@@ -7,5 +7,5 @@ pub mod identity;
 pub mod dependencies;
 
 fn main() {
-    println!("Hello, world!");
+
 }

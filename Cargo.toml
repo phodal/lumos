@@ -25,3 +25,8 @@ exclude = [
 
 
 [dependencies]
+
+[[bin]]
+name = "lumos"
+test = false
+bench = false
